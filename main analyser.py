@@ -29,6 +29,4 @@ def perform_sentiment_analysis(file_path):
         print ("Subjectivity: ",subjectivity)
 
 
-
-
 open_file_dialog()
